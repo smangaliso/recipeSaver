@@ -1,0 +1,28 @@
+{
+  "name": "recipesaver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smangaliso/recipeSaver.git"
+  },
+  "keywords": [],
+  "author": "Smangaliso Zuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smangaliso/recipeSaver/issues"
+  },
+  "homepage": "https://github.com/smangaliso/recipeSaver#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
